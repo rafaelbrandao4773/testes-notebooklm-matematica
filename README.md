@@ -24,10 +24,23 @@ A resposta da IA foi separa em três partes: a explicação, o exemplo passo a p
 <img width="815" height="787" alt="image" src="https://github.com/user-attachments/assets/c0e66b67-2c9d-47ca-ad83-9b2a65d00080" />
 <img width="790" height="354" alt="image" src="https://github.com/user-attachments/assets/a7317966-013b-4d42-a7ab-2634be852f5d" />
 
+Esta resposta usou como referência, como pedido, o livro de Richard Courant.
+_____________________________________________________________________________________________________________________
 A segunda pergunta foi uma explicação mais técnica sobre o método de prova matemática da "Indução Finita", junto com um exemplo complexo:
 
-"
+"Explique o que é e demonstre o Teorema da Invariância da Dimensão. Mostre toda a sua linha de raciocínio lógico até chegar na conclusão do Teorema."
 
+A resposta da IA:
+
+<img width="595" height="999" alt="image" src="https://github.com/user-attachments/assets/50d90848-d346-44eb-b80b-4973e3129650" />
+
+A referência usada nesta resposta foi o livro de José Luiz Boldrini.
+_____________________________________________________________________________________________________________________
+O terceiro prompt teve como objetivo a resolução de um exercício da Competição Elon Lages Lima, a sexta competição, do ano de 2025:
+
+<img width="1380" height="421" alt="image" src="https://github.com/user-attachments/assets/92b4493c-be7f-4edc-b385-805850a534fb" />
+
+A dificuldade neste caso foi criar um prompt.
 
 
 
