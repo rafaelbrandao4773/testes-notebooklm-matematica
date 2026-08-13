@@ -167,10 +167,3 @@ Modelos genéricos, baseados nos prompts testados, prontos para reaproveitar em 
 > "Com base nas fontes carregadas, monte um resumo em tópicos dos principais teoremas e definições sobre [TEMA], incluindo para cada um: enunciado, ideia-chave da demonstração e um exemplo curto de aplicação."
 
 ---
-
-## Checklist de pendências antes da entrega
-
-* [ ] Adicionar links/edições das 5 fontes na tabela de Curadoria de Fontes
-* [ ] Inserir a imagem da resposta do Prompt 3
-* [ ] Revisar se todas as imagens estão corretamente linkadas após subir para o GitHub
-* [ ] Colar a URL final do repositório na plataforma da DIO
