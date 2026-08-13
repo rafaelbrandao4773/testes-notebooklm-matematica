@@ -95,6 +95,13 @@ Nesta seção estão documentados os prompts estratégicos elaborados, as respos
 **Observações / troubleshooting:** enviar a imagem da questão diretamente como fonte no NotebookLM (em vez de digitar o enunciado) funcionou bem e evitou erros de transcrição — especialmente importante em questões com notação matemática mais densa. A principal dificuldade foi garantir que a IA justificasse *cada* técnica usada e não apenas apresentasse a conta pronta; pedir explicitamente o formato de justificativa ("usei a técnica de X porque...") no prompt foi o que resolveu isso.
 
 ---
+## Testes de análise de erros
+
+Nesta seção estão documentados os prompts estratégicos elaborados para analisar como a IA lida com prompts que contém ou pedidos fora do escopo das fontes, pedidos que não fazem sentido, pedidos absurdos até para a matemática atual etc. Será analisando se ocorrerá alucinações para cumprir o prompt recebido.
+
+### Prompt 1 — 
+
+---
 
 ## Miniguia de Estudo (Entrega Final)
 
