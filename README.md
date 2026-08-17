@@ -30,6 +30,12 @@ Foram selecionadas cinco fontes clássicas e amplamente reconhecidas na Academia
 
 Links:
 
+- Boldrini: https://archive.org/details/algebralinearboldrini_201908
+- Courant: https://archive.org/details/in.ernet.dli.2015.205513/page/36/mode/2up
+- Hardy: https://archive.org/details/in.ernet.dli.2015.239784
+- Ivan de Camargo e Paulo Boulos: https://archive.org/details/GeometriaAnaliticaUmTratamentoVetorial
+- Kenneth H. Rosen: https://archive.org/details/discretemathemat00kenn
+
 ---
 
 ## Engenharia de Prompts e "Cicatrizes"
