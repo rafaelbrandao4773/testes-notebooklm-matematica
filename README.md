@@ -234,5 +234,7 @@ Modelos genéricos, baseados nos prompts testados, prontos para reaproveitar em 
 **Para revisão rápida antes de uma prova:**
 
 > "Com base nas fontes carregadas, monte um resumo em tópicos dos principais teoremas e definições sobre [TEMA], incluindo para cada um: enunciado, ideia-chave da demonstração e um exemplo curto de aplicação."
+>
+> https://notebook.google.com/notebook/127d0628-2b99-4ba8-9a91-15a7ce653ea2
 
 ---
